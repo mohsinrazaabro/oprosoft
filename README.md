@@ -1,3 +1,3 @@
 # oprosoft
  
-Preview: mohsinrazaabr.github.io/oprosoft-frontend
+Preview: https://mohsinrazaabr.github.io/oprosoft-frontend
